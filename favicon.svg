@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Контур">
+  <rect width="64" height="64" fill="#0A0908"></rect>
+  <g fill="none" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M42 8 H56 V22" stroke="#FF3E9E" stroke-width="6"></path>
+    <path d="M20 16 V48" stroke="#EDEBE7" stroke-width="8"></path>
+    <path d="M24.5 32 L40 16" stroke="#EDEBE7" stroke-width="8"></path>
+    <path d="M24.5 32 L41 48" stroke="#EDEBE7" stroke-width="8"></path>
+  </g>
+</svg>
